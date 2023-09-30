@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Maurya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*yw0TnheAGN-LPneDaTlaxw.gif/>
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1100/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-himanshu29&label=Profile%20views&color=0e75b6&style=flat" alt="i-himanshu29" /> </p>
 
